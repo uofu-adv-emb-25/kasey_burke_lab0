@@ -1,3 +1,10 @@
+# Kasey and Burke Lab0 Environment
+The lab utilizes a template repository with code causing 
+the led on the Rasberry PI to blink. The frequency of the blink
+was increased by decreasing the value inside a task delay.
+
+![Lab0 Workflow](https://github.com/uofu-adv-emb-25/kasey_burke_lab0/actions/workflows/main.yml/badge.svg)
+
 # Renode setup
 The Raspberry Pico needs configuration files for Renode to work properly.
 
